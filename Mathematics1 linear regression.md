@@ -1,2 +1,3 @@
-linear regression
+# linear regression:
+
 ![](images/linearregression.png) 
