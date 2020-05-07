@@ -1,1 +1,2 @@
-![](images/linear regression.png) 
+
+![](images/linearregression.png) 
