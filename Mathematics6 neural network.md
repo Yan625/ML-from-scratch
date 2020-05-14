@@ -1,2 +1,2 @@
-![](images/logisticregression1.png) 
-![](images/logisticregression2.png) 
+![](images/nn1.png)
+![](images/nn2.png)
